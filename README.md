@@ -11,7 +11,7 @@ Identify the candidate with the highest number of votes that is winner
 Generate a summary report of the election Result  
 
 
-**PyBank**
+**PyBank**  
 this PyBank project is a python based tool that analyze   
  1  Monthly finacial data  
  2  Calculatestotal profit/loss   
