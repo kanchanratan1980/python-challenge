@@ -2,8 +2,8 @@
  #Pypoll
 
 **Project overview**
-**this pypoll is project is a python- based tool to analyze data.  
-It computes the total votes, calculate the percetage of votes for each candidates and identifies the winner based on the heighest number of votes. 
+**this pypoll is project is a python- based tool to analyze data.    
+It computes the total votes, calculate the percetage of votes for each candidates and identifies the winner based on the heighest number of votes.   
 **Features**
 Count the total number of votes  
 calculate the percentage of votes each candidate receive  
