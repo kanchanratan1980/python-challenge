@@ -37,7 +37,7 @@ output the results both to the terminal and text file.
   statistics.  
   **Input file**  
   1. Resources/election_data.csv
-       .Columns: Voter ID, County,Candidate
+       .Columns: Ballot ID, County,Candidate
  **Task**
  1. Calculate the Total number of votes cast.
  2. Create a complete list of candidates who receved votes.
