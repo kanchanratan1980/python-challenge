@@ -69,6 +69,7 @@ average_change = sum(net_change_list) / len(net_change_list)
 
 # Generate the output summary
 output = (
+    f"                  \n"
     f"Financial Analysis \n"
     f"total month: {total_months}\n"
     f"total: ${total_net}\n"
